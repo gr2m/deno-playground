@@ -1,0 +1,7 @@
+{
+  "name": "deno-playground",
+  "version": "0.0.0-development",
+  "description": "Just some Deno scripts",
+  "private": true,
+  "repository": "https://github.com/gr2m/deno-playground"
+}
